@@ -33,11 +33,13 @@
 
 ## Getting there
 - Nearest airports are Milano Malpensa (MXP) and Milano Linate (LIN).
-- Transport between airport and Barza will be organized and provided by JRC.
+- Transport between airport and Barza will be organized and provided free of charge by JRC.
 
 ## Accommodation
 
-- There's a block reservation in Hotel Europa. The participants should mark it on the registration and JRC will make the booking.
+- There's a block reservation in Hotel Europa. 
+- The participants that want to stay in Hotel Europa should mark it on the registration.
+- JRC will book the rooms but the participants will have to pay, ~65 euros per night.
 
 ## Registration
 
