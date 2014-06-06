@@ -31,21 +31,21 @@
 ## Location
 - EC JRC, Ispra, Italy.
 
+## Registration
+
+- The deadline for registration is 11th July 2014
+- Each participant must register in https://jrc-meeting-registration.jrc.ec.europa.eu/Home/tabid/36/Default.aspx . The registration can be incomplete regarding accomodation and travel details and updated later.
+- The JRC will issue an official invitation letter.
+
 ## Getting there
 - Nearest airports are Milano Malpensa (MXP) and Milano Linate (LIN).
-- Transport between airport and Barza will be organized and provided free of charge by JRC.
+- Transport between airport and Ispra will be organized and provided free of charge by JRC.
 
 ## Accommodation
 
 - There's a block reservation in Hotel Europa. 
 - The participants that want to stay in Hotel Europa should mark it on the registration.
 - JRC will book the rooms but the participants will have to pay, ~65 euros per night.
-
-## Registration
-
-- The deadline for registration is 11th July 2014
-- Each participant must register in https://jrc-meeting-registration.jrc.ec.europa.eu/Home/tabid/36/Default.aspx . 
-- The JRC will issue an official invitation letter.
 
 ## Costs
 
